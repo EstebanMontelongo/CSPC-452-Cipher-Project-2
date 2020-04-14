@@ -1,1 +1,32 @@
-# CSPC-452-Cipher-Project-2
+To compile, simply, type ''make'' at the terminal (without the quotes).
+
+Please do not forget to include a README file in your submission.
+It's worth 5 points.
+
+Your README file should include:
+
+– Names and email addresses of all partners.
+– The programming language you use (e.g. C++ or Java)
+– How to execute your program.
+– Whether you implemented the extra credit.
+– Anything special about your submission that we should take note of.
+
+# CSUF-Cryptography-Assignment2-SP2020
+For CSUF Cryptography with Mikael Gofman for Spring 2020
+
+Students:
+Rahin Hedayat        rhedayat2@csu.fullerton.edu
+Esteban Montelongo   EstebanMontelongo@csu.fullerton.edu
+Kayla Nguyen         knguyen1170@csu.fullerton.edu
+Daniel Pestolesi     Danpestolesi@csu.fullerton.edu
+
+Program completed in C++
+
+Instructions to Compile and Execute Code: 
+1. To compile, simply, type "make" at the terminal which will generate .obj file and .exe file.
+2. To execute, type in the terminal in the form as follows: .\cipher <Cipher_name> <key> <ENC/DEC> <Input_file> <Output_file>
+      
+      
+   Example: .\cipher DES 0123456789abcdef ENC enc.txt dec.txt
+   Example: .\cipher AES 00112233445566778899aabbccddeeff ENC enc.txt dec.txt
+   
