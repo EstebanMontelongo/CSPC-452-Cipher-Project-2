@@ -28,5 +28,6 @@ Instructions to Compile and Execute Code:
       
       
    Example: .\cipher DES 0123456789abcdef ENC enc.txt dec.txt
+   
    Example: .\cipher AES 00112233445566778899aabbccddeeff ENC enc.txt dec.txt
    
